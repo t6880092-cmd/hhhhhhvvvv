@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird",
+  "description": "A complete, fully playable Flappy Bird clone with authentic arcade physics, audio, and visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
